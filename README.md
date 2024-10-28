@@ -1,3 +1,34 @@
+# TaskNest: Task Management Platform
+
+TaskNest is a modern task management platform built with **Next.js 15** that allows users to efficiently organize and manage their tasks. The platform offers streamlined options for task creation, editing, completion, and deletion within a clean, intuitive interface.
+
+## Features
+
+- **Custom Authentication**: Secure sign-up and sign-in functionality for user access management.
+- **Task Management**: Users can add tasks with details, edit descriptions, delete unwanted tasks, and mark tasks as completed.
+- **Drizzle ORM with Neon Database**: Efficient task storage and retrieval using Drizzle ORM with a Neon database for structured data management.
+- **User Dashboard**: Displays all user tasks with options to filter by status (e.g., completed, pending).
+- **Minimalistic Design**: Utilizes ShadCN for a modern, minimalistic design that enhances the user experience.
+
+## Tech Stack
+
+- **Next.js 15**
+- **ShadCN**
+- **Drizzle ORM**
+- **Neon**
+- **TypeScript**
+
+## Getting Started
+
+To get started with TaskNest, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/harshasiddartha/tasknest.git
+cd tasknest
+npm install
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
